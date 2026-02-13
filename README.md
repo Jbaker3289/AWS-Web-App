@@ -4,7 +4,7 @@
 A multi-tier web application demonstrating cloud architecture best practices using AWS services.
 
 ## Goal
-Build a production-ready web application where users can submit player profiles (name, position, stats). The application uses:
+Build a production-ready web application where users can submit player profiles (name, position, stats) and anonymized reviews of club experiences. The application uses:
 - Multiple EC2 instances for high availability
 - RDS database for data storage
 - Load Balancer for traffic distribution
